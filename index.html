@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Відправка повідомлення через Telegram Bot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            text-align: center;
+        }
+        #messageForm {
+            text-align: center;
+            margin-top: 50px;
+        }
+        input, textarea {
+            width: 80%;
+            margin: 10px 0;
+            padding: 10px;
+            font-size: 16px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Відправка повідомлення через Telegram Bot</h1>
+    <div id="messageForm">
+        <input type="text" id="chatId" placeholder="Введіть Chat ID"><br>
+        <textarea id="message" placeholder="Введіть ваше повідомлення"></textarea><br>
+        <button onclick="sendMessage()">Відправити</button>
+    </div>
+
+    <script>
+        const token = '7155061154:AAHVQGCwZbMM7sTcL0gZAGAFZ_Pbxjn6g7g';
+
+        function sendMessage() {
+            const chatId = document.getElementById('chatId').value;
+            const message = document.getElementById('message').value;
+            const apiUrl = `https://api.telegram.org/bot${token}/sendMessage`;
+
+            fetch(apiUrl, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    chat_id: chatId,
+                    text: message
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.ok) {
+                    alert('Повідомлення успішно відправлено!');
+                } else {
+                    alert('Помилка при відправці повідомлення: ' + data.description);
+                }
+            })
+            .catch(error => console.error('Помилка при виконанні запиту до API Telegram:', error));
+        }
+    </script>
+</body>
+</html>

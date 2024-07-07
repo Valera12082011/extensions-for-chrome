@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack)](https://git.io/typing-svg)
 
 <h1>💻 Tech Stack:</h1>
 
@@ -20,9 +20,10 @@
 ![Aiogram](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Aiogram)
 
 <h1> Description <h1/>
-  <h3>My Own Project - "Owls"<h3/>
+  <h5>My Own Project - "Owls"<h3/>
     <p>Hellow my name is valera. I am learning pragraming for 2 years, and i am doing my own project with name "Owls" this is very interesting ide bacause he is a unique social network. In        this time he has some functions. But it is only start. Very soon this worl can see it.</p>>
-  <h3>Other<h3/>
+  <h5>Other<h3/>
     <p>And if i do not speak about my project I am doing small project in React , TS , Electron , ... I Know this not bad enough. I am doing Desctop project and i am going to Mobile with 
     React Native. this my description if you want talk to me you can write me https://github.com/KellMinorniy<p/>
 
+[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]

@@ -5,7 +5,7 @@ Since then I pushed **2274** commits, opened **211** issues, submitted **333** p
 Most used languages across my projects:
 
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B164.7%25)
-![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23dea584&message=Rust%EF%B8%B117.4%25)
+![React](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=React%EF%B8%B175%)
 ![Julia](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23a270ba&message=Julia%EF%B8%B18.8%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B12.8%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B11.9%25)

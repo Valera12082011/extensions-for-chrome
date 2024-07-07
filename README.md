@@ -26,4 +26,3 @@
     <p>And if i do not speak about my project I am doing small project in React , TS , Electron , ... I Know this not bad enough. I am doing Desctop project and i am going to Mobile with 
     React Native. this my description if you want talk to me you can write me https://github.com/KellMinorniy<p/>
 
-[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]

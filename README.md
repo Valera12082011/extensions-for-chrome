@@ -21,7 +21,7 @@
 
 <h1> Description <h1/>
   <h5>My Own Project - "Owls"<h3/>
-    <p>Hellow my name is valera. I am learning pragraming for 2 years, and i am doing my own project with name "Owls" this is very interesting ide bacause he is a unique social network. In        this time he has some functions. But it is only start. Very soon this worl can see it.</p>>
+    <p>Hellow my name is valera. I am learning pragraming for 2 years, and i am doing my own project with name "Owls" this is very interesting ide bacause it is a unique social network. In        this time he has some functions. But it is only start. Very soon this worl can see it.</p>>
   <h5>Other<h3/>
     <p>And if i do not speak about my project I am doing small project in React , TS , Electron , ... I Know this not bad enough. I am doing Desctop project and i am going to Mobile with 
     React Native. this my description if you want talk to me you can write me https://t.me/VA_lera2<p/>
